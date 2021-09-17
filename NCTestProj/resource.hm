@@ -1,0 +1,4 @@
+// Microsoft Visual C++ generated Help ID include file.
+// Used by NCReleaseM.rc
+//
+#define HIDC_EXIT_BTN                   0x806703eb    // IDD_LEFT_BAR

@@ -1,0 +1,44 @@
+﻿Сборка начата 16.09.2021 20:32:42.
+     1>Проект "C:\Demonstration_english\БиоНейроАвтограф_2_0\NCTestProj\NCTestProj.vcxproj" в узле 2 (целевые объекты Build).
+     1>CustomBuild:
+         Making help file...
+         Скопировано файлов:         1.
+         
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt NCLearningView.cpp
+         NCLearningView.cpp
+     1>c:\demonstration_english\бионейроавтограф_2_0\nctestproj\..\gui\SButton.h(14): warning C4005: ON_WM_MOUSELEAVE: изменение макроопределения
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\atlmfc\include\afxmsg_.h(996): см. предыдущее определение "ON_WM_MOUSELEAVE"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Demonstration_english\БиоНейроАвтограф_2_0\Release\БиоНейроАвтограф.exe" /INCREMENTAL /NOLOGO Netapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Demonstration_english\БиоНейроАвтограф_2_0\Release\БиоНейроАвтограф.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE:NO /IMPLIB:"C:\Demonstration_english\БиоНейроАвтограф_2_0\Release\БиоНейроАвтограф.lib" /MACHINE:X86 /SAFESEH Release\NCTestProj.res
+         Release\BodyBurdenDlg.obj
+         Release\DlgBarEx.obj
+         Release\GetKeyDlg.obj
+         Release\MainFrm.obj
+         Release\NCLearningView.obj
+         Release\NCTestProj.obj
+         Release\NCTestProjDoc.obj
+         Release\NCTestProjView.obj
+         Release\ProgressLearnDlg.obj
+         Release\SButton.obj
+         Release\StabilityDlg.obj
+         Release\stdafx.obj
+         Release\TestDlg.obj
+         Release\UserAccountDlg.obj
+         Release\Draw.obj
+         Release\MenuXP.obj
+         Release\Tools.obj
+         Release\ChangeUserPassword.obj
+         Release\computation.obj
+         Release\FileManipulations.obj
+         bnc32.lib
+         "C:\Demonstration_english\БиоНейроАвтограф_2_0\Release\bnc32.lib"
+     1>LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/LTCG"
+         Создание кода
+         Создание кода завершено
+         NCTestProj.vcxproj -> C:\Demonstration_english\БиоНейроАвтограф_2_0\Release\БиоНейроАвтограф.exe
+     1>Сборка проекта "C:\Demonstration_english\БиоНейроАвтограф_2_0\NCTestProj\NCTestProj.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.69

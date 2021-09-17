@@ -1,0 +1,37 @@
+﻿Сборка начата 16.09.2021 18:48:44.
+     1>Проект "C:\Demonstration_english\БиоНейроАвтограф_2_0\NCTestProj\NCTestProj.vcxproj" в узле 2 (целевые объекты Build).
+     1>CustomBuild:
+         Making help file...
+         Скопировано файлов:         1.
+         
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Demonstration_english\БиоНейроАвтограф_2_0\Debug\NCTesting.exe" /INCREMENTAL:NO /NOLOGO Netapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Demonstration_english\БиоНейроАвтограф_2_0\Debug\NCTesting.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE:NO /IMPLIB:"C:\Demonstration_english\БиоНейроАвтограф_2_0\Debug\NCTesting.lib" /MACHINE:X86 /SAFESEH Debug\NCTestProj.res
+         Debug\BodyBurdenDlg.obj
+         Debug\DlgBarEx.obj
+         Debug\GetKeyDlg.obj
+         Debug\MainFrm.obj
+         Debug\NCLearningView.obj
+         Debug\NCTestProj.obj
+         Debug\NCTestProjDoc.obj
+         Debug\NCTestProjView.obj
+         Debug\ProgressLearnDlg.obj
+         Debug\SButton.obj
+         Debug\StabilityDlg.obj
+         Debug\stdafx.obj
+         Debug\TestDlg.obj
+         Debug\UserAccountDlg.obj
+         Debug\Draw.obj
+         Debug\MenuXP.obj
+         Debug\Tools.obj
+         Debug\ChangeUserPassword.obj
+         Debug\computation.obj
+         Debug\FileManipulations.obj
+         bnc32.lib
+         "C:\Demonstration_english\БиоНейроАвтограф_2_0\Debug\bnc32.lib"
+     1>BodyBurdenDlg.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:LBR"
+         NCTestProj.vcxproj -> C:\Demonstration_english\БиоНейроАвтограф_2_0\Debug\NCTesting.exe
+     1>Сборка проекта "C:\Demonstration_english\БиоНейроАвтограф_2_0\NCTestProj\NCTestProj.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.49
