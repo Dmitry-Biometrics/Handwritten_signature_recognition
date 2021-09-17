@@ -1,0 +1,1 @@
+The work is devoted to mastering the technology of converting a person's biometric data into the code of his personal access key or long password. The work will be introduced in the program "BioNeuroAutograph 2.0" (Figure 1).
