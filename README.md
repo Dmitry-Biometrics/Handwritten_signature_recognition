@@ -39,6 +39,7 @@ As a check, the letter "a" was written by a stranger and submitted for verificat
     Figure 7 - An example of identification of an unauthorized user
 
 ![image](https://user-images.githubusercontent.com/16018075/133831762-fbbda426-4203-47ee-bbd0-c7bc897e6d05.png)
+
     Figure 8 - An example of mismatched bits when entering another image
 
 
